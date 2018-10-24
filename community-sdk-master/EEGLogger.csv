@@ -1,0 +1,915 @@
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.600Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8065306 } 
+, {"measurement":"focus","value": 0.8634376 } 
+, {"measurement":"excitement","value": 0.7718383 } 
+, {"measurement":"frustration","value": 0.21261805 } 
+, {"measurement":"stress","value": 0.017580306 } 
+, {"measurement":"relaxation","value": 0.45146576 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.718Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.895923 } 
+, {"measurement":"focus","value": 0.8230437 } 
+, {"measurement":"excitement","value": 0.7369053 } 
+, {"measurement":"frustration","value": 0.26976895 } 
+, {"measurement":"stress","value": 0.18076311 } 
+, {"measurement":"relaxation","value": 0.40922585 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.763Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.93829185 } 
+, {"measurement":"focus","value": 0.8716672 } 
+, {"measurement":"excitement","value": 0.7490709 } 
+, {"measurement":"frustration","value": 0.18171826 } 
+, {"measurement":"stress","value": 0.16647634 } 
+, {"measurement":"relaxation","value": 0.49894172 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.811Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.96483105 } 
+, {"measurement":"focus","value": 0.7899425 } 
+, {"measurement":"excitement","value": 0.78813255 } 
+, {"measurement":"frustration","value": 0.28995594 } 
+, {"measurement":"stress","value": 0.14159505 } 
+, {"measurement":"relaxation","value": 0.413739 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.856Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9484891 } 
+, {"measurement":"focus","value": 0.82005423 } 
+, {"measurement":"excitement","value": 0.7316352 } 
+, {"measurement":"frustration","value": 0.2904302 } 
+, {"measurement":"stress","value": 0.17698784 } 
+, {"measurement":"relaxation","value": 0.46894133 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:35.901Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.82480204 } 
+, {"measurement":"focus","value": 0.8612827 } 
+, {"measurement":"excitement","value": 0.7197592 } 
+, {"measurement":"frustration","value": 0.19843906 } 
+, {"measurement":"stress","value": 0.18097119 } 
+, {"measurement":"relaxation","value": 0.5932088 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:36.948Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9260083 } 
+, {"measurement":"focus","value": 0.80451643 } 
+, {"measurement":"excitement","value": 0.7948216 } 
+, {"measurement":"frustration","value": 0.2981306 } 
+, {"measurement":"stress","value": 0.1132768 } 
+, {"measurement":"relaxation","value": 0.47379544 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:36.989Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.949718 } 
+, {"measurement":"focus","value": 0.7919238 } 
+, {"measurement":"excitement","value": 0.72530437 } 
+, {"measurement":"frustration","value": 0.2301116 } 
+, {"measurement":"stress","value": 0.074696295 } 
+, {"measurement":"relaxation","value": 0.43470228 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:37.034Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8225416 } 
+, {"measurement":"focus","value": 0.76117116 } 
+, {"measurement":"excitement","value": 0.6770661 } 
+, {"measurement":"frustration","value": 0.15426788 } 
+, {"measurement":"stress","value": 0.13314539 } 
+, {"measurement":"relaxation","value": 0.5604061 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:37.080Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8902785 } 
+, {"measurement":"focus","value": 0.8046977 } 
+, {"measurement":"excitement","value": 0.6253449 } 
+, {"measurement":"frustration","value": 0.12612851 } 
+, {"measurement":"stress","value": 0.15347172 } 
+, {"measurement":"relaxation","value": 0.4338977 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:37.124Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8419824 } 
+, {"measurement":"focus","value": 0.7552954 } 
+, {"measurement":"excitement","value": 0.7198479 } 
+, {"measurement":"frustration","value": 0.20359372 } 
+, {"measurement":"stress","value": 0.16064908 } 
+, {"measurement":"relaxation","value": 0.57790935 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:37.176Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.98436546 } 
+, {"measurement":"focus","value": 0.7322227 } 
+, {"measurement":"excitement","value": 0.7939186 } 
+, {"measurement":"frustration","value": 0.21443908 } 
+, {"measurement":"stress","value": 0.13622408 } 
+, {"measurement":"relaxation","value": 0.46139616 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.223Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8706849 } 
+, {"measurement":"focus","value": 0.8808748 } 
+, {"measurement":"excitement","value": 0.7836055 } 
+, {"measurement":"frustration","value": 0.28847405 } 
+, {"measurement":"stress","value": 0.1798855 } 
+, {"measurement":"relaxation","value": 0.5048232 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.306Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9468541 } 
+, {"measurement":"focus","value": 0.8669308 } 
+, {"measurement":"excitement","value": 0.7644911 } 
+, {"measurement":"frustration","value": 0.2853593 } 
+, {"measurement":"stress","value": 0.14331637 } 
+, {"measurement":"relaxation","value": 0.55842793 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.349Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8630815 } 
+, {"measurement":"focus","value": 0.8576848 } 
+, {"measurement":"excitement","value": 0.77804387 } 
+, {"measurement":"frustration","value": 0.115251675 } 
+, {"measurement":"stress","value": 0.13041946 } 
+, {"measurement":"relaxation","value": 0.43641025 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.395Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9841802 } 
+, {"measurement":"focus","value": 0.8848506 } 
+, {"measurement":"excitement","value": 0.76066834 } 
+, {"measurement":"frustration","value": 0.16189729 } 
+, {"measurement":"stress","value": 0.19812252 } 
+, {"measurement":"relaxation","value": 0.53110725 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.442Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9800795 } 
+, {"measurement":"focus","value": 0.8586252 } 
+, {"measurement":"excitement","value": 0.72625077 } 
+, {"measurement":"frustration","value": 0.25111586 } 
+, {"measurement":"stress","value": 0.03253107 } 
+, {"measurement":"relaxation","value": 0.55420464 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:38.482Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.89837015 } 
+, {"measurement":"focus","value": 0.71590275 } 
+, {"measurement":"excitement","value": 0.6014137 } 
+, {"measurement":"frustration","value": 0.25593618 } 
+, {"measurement":"stress","value": 0.103723995 } 
+, {"measurement":"relaxation","value": 0.51678675 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.528Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.89060324 } 
+, {"measurement":"focus","value": 0.8574407 } 
+, {"measurement":"excitement","value": 0.70389336 } 
+, {"measurement":"frustration","value": 0.16541377 } 
+, {"measurement":"stress","value": 0.08214785 } 
+, {"measurement":"relaxation","value": 0.41712907 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.576Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.888508 } 
+, {"measurement":"focus","value": 0.8677977 } 
+, {"measurement":"excitement","value": 0.7559121 } 
+, {"measurement":"frustration","value": 0.25445142 } 
+, {"measurement":"stress","value": 0.06721925 } 
+, {"measurement":"relaxation","value": 0.43789122 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.618Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.95477533 } 
+, {"measurement":"focus","value": 0.741762 } 
+, {"measurement":"excitement","value": 0.67009085 } 
+, {"measurement":"frustration","value": 0.29349738 } 
+, {"measurement":"stress","value": 0.015646948 } 
+, {"measurement":"relaxation","value": 0.5178321 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.660Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9281079 } 
+, {"measurement":"focus","value": 0.842168 } 
+, {"measurement":"excitement","value": 0.79762787 } 
+, {"measurement":"frustration","value": 0.24399945 } 
+, {"measurement":"stress","value": 0.04896201 } 
+, {"measurement":"relaxation","value": 0.42285532 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.702Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8677586 } 
+, {"measurement":"focus","value": 0.8761075 } 
+, {"measurement":"excitement","value": 0.7629012 } 
+, {"measurement":"frustration","value": 0.27959785 } 
+, {"measurement":"stress","value": 0.15270399 } 
+, {"measurement":"relaxation","value": 0.44540575 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:39.745Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8353882 } 
+, {"measurement":"focus","value": 0.89761126 } 
+, {"measurement":"excitement","value": 0.60279614 } 
+, {"measurement":"frustration","value": 0.2885474 } 
+, {"measurement":"stress","value": 0.08613004 } 
+, {"measurement":"relaxation","value": 0.4169483 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:40.790Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8354035 } 
+, {"measurement":"focus","value": 0.8258826 } 
+, {"measurement":"excitement","value": 0.76467055 } 
+, {"measurement":"frustration","value": 0.17069805 } 
+, {"measurement":"stress","value": 0.013248849 } 
+, {"measurement":"relaxation","value": 0.5707512 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:40.833Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9738866 } 
+, {"measurement":"focus","value": 0.7989613 } 
+, {"measurement":"excitement","value": 0.79996896 } 
+, {"measurement":"frustration","value": 0.20208931 } 
+, {"measurement":"stress","value": 0.051104117 } 
+, {"measurement":"relaxation","value": 0.41628107 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:40.872Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.98601055 } 
+, {"measurement":"focus","value": 0.83100903 } 
+, {"measurement":"excitement","value": 0.7242046 } 
+, {"measurement":"frustration","value": 0.12746479 } 
+, {"measurement":"stress","value": 0.15834062 } 
+, {"measurement":"relaxation","value": 0.5914833 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:40.914Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9833408 } 
+, {"measurement":"focus","value": 0.77353716 } 
+, {"measurement":"excitement","value": 0.60473746 } 
+, {"measurement":"frustration","value": 0.25841263 } 
+, {"measurement":"stress","value": 0.18522577 } 
+, {"measurement":"relaxation","value": 0.59391063 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:40.960Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9350931 } 
+, {"measurement":"focus","value": 0.8121564 } 
+, {"measurement":"excitement","value": 0.7035263 } 
+, {"measurement":"frustration","value": 0.16619608 } 
+, {"measurement":"stress","value": 0.10497321 } 
+, {"measurement":"relaxation","value": 0.5344635 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:41.001Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8999407 } 
+, {"measurement":"focus","value": 0.86180794 } 
+, {"measurement":"excitement","value": 0.6512959 } 
+, {"measurement":"frustration","value": 0.29127386 } 
+, {"measurement":"stress","value": 0.10611319 } 
+, {"measurement":"relaxation","value": 0.51599073 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.046Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.90244526 } 
+, {"measurement":"focus","value": 0.82637143 } 
+, {"measurement":"excitement","value": 0.6764356 } 
+, {"measurement":"frustration","value": 0.1453935 } 
+, {"measurement":"stress","value": 0.023559451 } 
+, {"measurement":"relaxation","value": 0.46355653 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.090Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9378207 } 
+, {"measurement":"focus","value": 0.87004244 } 
+, {"measurement":"excitement","value": 0.62891877 } 
+, {"measurement":"frustration","value": 0.28408363 } 
+, {"measurement":"stress","value": 0.011681581 } 
+, {"measurement":"relaxation","value": 0.4990126 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.128Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8812073 } 
+, {"measurement":"focus","value": 0.73514056 } 
+, {"measurement":"excitement","value": 0.7031058 } 
+, {"measurement":"frustration","value": 0.17073914 } 
+, {"measurement":"stress","value": 0.09264566 } 
+, {"measurement":"relaxation","value": 0.52772677 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.169Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9563195 } 
+, {"measurement":"focus","value": 0.7718337 } 
+, {"measurement":"excitement","value": 0.7276452 } 
+, {"measurement":"frustration","value": 0.1921621 } 
+, {"measurement":"stress","value": 0.055528153 } 
+, {"measurement":"relaxation","value": 0.44069636 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.208Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.97725976 } 
+, {"measurement":"focus","value": 0.783926 } 
+, {"measurement":"excitement","value": 0.71391284 } 
+, {"measurement":"frustration","value": 0.29560226 } 
+, {"measurement":"stress","value": 0.14661768 } 
+, {"measurement":"relaxation","value": 0.5777348 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:42.250Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.9578814 } 
+, {"measurement":"focus","value": 0.74725133 } 
+, {"measurement":"excitement","value": 0.67074186 } 
+, {"measurement":"frustration","value": 0.11487758 } 
+, {"measurement":"stress","value": 0.028739799 } 
+, {"measurement":"relaxation","value": 0.52031976 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.293Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.92854416 } 
+, {"measurement":"focus","value": 0.80674255 } 
+, {"measurement":"excitement","value": 0.6683212 } 
+, {"measurement":"frustration","value": 0.22901523 } 
+, {"measurement":"stress","value": 0.053401925 } 
+, {"measurement":"relaxation","value": 0.5992894 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.332Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.8826189 } 
+, {"measurement":"focus","value": 0.88403463 } 
+, {"measurement":"excitement","value": 0.69340354 } 
+, {"measurement":"frustration","value": 0.16870478 } 
+, {"measurement":"stress","value": 0.1307304 } 
+, {"measurement":"relaxation","value": 0.5053803 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.373Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8075783 } 
+, {"measurement":"focus","value": 0.7828952 } 
+, {"measurement":"excitement","value": 0.7281508 } 
+, {"measurement":"frustration","value": 0.22427413 } 
+, {"measurement":"stress","value": 0.10718387 } 
+, {"measurement":"relaxation","value": 0.5962637 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.413Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8001377 } 
+, {"measurement":"focus","value": 0.7146095 } 
+, {"measurement":"excitement","value": 0.72632974 } 
+, {"measurement":"frustration","value": 0.22307017 } 
+, {"measurement":"stress","value": 0.0977149 } 
+, {"measurement":"relaxation","value": 0.4014049 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.454Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9500063 } 
+, {"measurement":"focus","value": 0.801342 } 
+, {"measurement":"excitement","value": 0.6493218 } 
+, {"measurement":"frustration","value": 0.12990849 } 
+, {"measurement":"stress","value": 0.19134425 } 
+, {"measurement":"relaxation","value": 0.49319974 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:43.493Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.9425788 } 
+, {"measurement":"focus","value": 0.7683842 } 
+, {"measurement":"excitement","value": 0.73900354 } 
+, {"measurement":"frustration","value": 0.19792186 } 
+, {"measurement":"stress","value": 0.08832955 } 
+, {"measurement":"relaxation","value": 0.45690665 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.540Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.96132505 } 
+, {"measurement":"focus","value": 0.86130875 } 
+, {"measurement":"excitement","value": 0.6552572 } 
+, {"measurement":"frustration","value": 0.18692201 } 
+, {"measurement":"stress","value": 0.025702441 } 
+, {"measurement":"relaxation","value": 0.56158864 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.579Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.82970434 } 
+, {"measurement":"focus","value": 0.7996453 } 
+, {"measurement":"excitement","value": 0.71470577 } 
+, {"measurement":"frustration","value": 0.11838048 } 
+, {"measurement":"stress","value": 0.03285841 } 
+, {"measurement":"relaxation","value": 0.5892549 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.622Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8131999 } 
+, {"measurement":"focus","value": 0.7900067 } 
+, {"measurement":"excitement","value": 0.70644146 } 
+, {"measurement":"frustration","value": 0.27360743 } 
+, {"measurement":"stress","value": 0.18490201 } 
+, {"measurement":"relaxation","value": 0.52587533 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.663Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9047295 } 
+, {"measurement":"focus","value": 0.8458766 } 
+, {"measurement":"excitement","value": 0.64139795 } 
+, {"measurement":"frustration","value": 0.20196265 } 
+, {"measurement":"stress","value": 0.19926843 } 
+, {"measurement":"relaxation","value": 0.48185438 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.705Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9071359 } 
+, {"measurement":"focus","value": 0.7524914 } 
+, {"measurement":"excitement","value": 0.77786624 } 
+, {"measurement":"frustration","value": 0.29392436 } 
+, {"measurement":"stress","value": 0.032725036 } 
+, {"measurement":"relaxation","value": 0.41414586 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:44.746Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8208446 } 
+, {"measurement":"focus","value": 0.799093 } 
+, {"measurement":"excitement","value": 0.71006465 } 
+, {"measurement":"frustration","value": 0.20529842 } 
+, {"measurement":"stress","value": 0.07521415 } 
+, {"measurement":"relaxation","value": 0.40548742 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:45.797Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9640373 } 
+, {"measurement":"focus","value": 0.75497067 } 
+, {"measurement":"excitement","value": 0.6629852 } 
+, {"measurement":"frustration","value": 0.23213145 } 
+, {"measurement":"stress","value": 0.12689884 } 
+, {"measurement":"relaxation","value": 0.5628498 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:45.841Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9380022 } 
+, {"measurement":"focus","value": 0.7193678 } 
+, {"measurement":"excitement","value": 0.69996244 } 
+, {"measurement":"frustration","value": 0.19179061 } 
+, {"measurement":"stress","value": 0.006537819 } 
+, {"measurement":"relaxation","value": 0.46483377 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:45.879Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.9860698 } 
+, {"measurement":"focus","value": 0.7236339 } 
+, {"measurement":"excitement","value": 0.61256033 } 
+, {"measurement":"frustration","value": 0.2560313 } 
+, {"measurement":"stress","value": 0.18777111 } 
+, {"measurement":"relaxation","value": 0.531513 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:45.920Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.97511566 } 
+, {"measurement":"focus","value": 0.77426124 } 
+, {"measurement":"excitement","value": 0.7074797 } 
+, {"measurement":"frustration","value": 0.26410815 } 
+, {"measurement":"stress","value": 0.029196763 } 
+, {"measurement":"relaxation","value": 0.41765645 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:45.966Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.86235046 } 
+, {"measurement":"focus","value": 0.86234766 } 
+, {"measurement":"excitement","value": 0.7377595 } 
+, {"measurement":"frustration","value": 0.22991171 } 
+, {"measurement":"stress","value": 0.15806973 } 
+, {"measurement":"relaxation","value": 0.5548832 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:46.008Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.85603374 } 
+, {"measurement":"focus","value": 0.78461295 } 
+, {"measurement":"excitement","value": 0.6242098 } 
+, {"measurement":"frustration","value": 0.26734993 } 
+, {"measurement":"stress","value": 0.17215846 } 
+, {"measurement":"relaxation","value": 0.42899638 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.048Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.907725 } 
+, {"measurement":"focus","value": 0.8664763 } 
+, {"measurement":"excitement","value": 0.7789858 } 
+, {"measurement":"frustration","value": 0.20939389 } 
+, {"measurement":"stress","value": 0.016866053 } 
+, {"measurement":"relaxation","value": 0.4348459 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.089Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9619047 } 
+, {"measurement":"focus","value": 0.8903647 } 
+, {"measurement":"excitement","value": 0.79146415 } 
+, {"measurement":"frustration","value": 0.235962 } 
+, {"measurement":"stress","value": 0.027979422 } 
+, {"measurement":"relaxation","value": 0.49882898 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.132Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.9472664 } 
+, {"measurement":"focus","value": 0.8996762 } 
+, {"measurement":"excitement","value": 0.718965 } 
+, {"measurement":"frustration","value": 0.2531186 } 
+, {"measurement":"stress","value": 0.044468414 } 
+, {"measurement":"relaxation","value": 0.51427406 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.176Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.85592306 } 
+, {"measurement":"focus","value": 0.76681095 } 
+, {"measurement":"excitement","value": 0.65193826 } 
+, {"measurement":"frustration","value": 0.26197484 } 
+, {"measurement":"stress","value": 0.0010080576 } 
+, {"measurement":"relaxation","value": 0.4257671 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.252Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.89840543 } 
+, {"measurement":"focus","value": 0.8755276 } 
+, {"measurement":"excitement","value": 0.6543074 } 
+, {"measurement":"frustration","value": 0.12993568 } 
+, {"measurement":"stress","value": 0.020669281 } 
+, {"measurement":"relaxation","value": 0.5614578 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:47.292Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.96946394 } 
+, {"measurement":"focus","value": 0.81179583 } 
+, {"measurement":"excitement","value": 0.7696956 } 
+, {"measurement":"frustration","value": 0.10997633 } 
+, {"measurement":"stress","value": 0.13377284 } 
+, {"measurement":"relaxation","value": 0.54413104 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.332Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.92262733 } 
+, {"measurement":"focus","value": 0.8439936 } 
+, {"measurement":"excitement","value": 0.7175231 } 
+, {"measurement":"frustration","value": 0.26476187 } 
+, {"measurement":"stress","value": 0.055394985 } 
+, {"measurement":"relaxation","value": 0.5626882 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.373Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9650904 } 
+, {"measurement":"focus","value": 0.8183255 } 
+, {"measurement":"excitement","value": 0.67821574 } 
+, {"measurement":"frustration","value": 0.14256248 } 
+, {"measurement":"stress","value": 0.13484086 } 
+, {"measurement":"relaxation","value": 0.47083968 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.415Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.86541516 } 
+, {"measurement":"focus","value": 0.7026302 } 
+, {"measurement":"excitement","value": 0.7997303 } 
+, {"measurement":"frustration","value": 0.29949638 } 
+, {"measurement":"stress","value": 0.078339316 } 
+, {"measurement":"relaxation","value": 0.5436162 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.456Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9423398 } 
+, {"measurement":"focus","value": 0.82415324 } 
+, {"measurement":"excitement","value": 0.7890785 } 
+, {"measurement":"frustration","value": 0.1343867 } 
+, {"measurement":"stress","value": 0.017305601 } 
+, {"measurement":"relaxation","value": 0.4504025 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.495Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.84961504 } 
+, {"measurement":"focus","value": 0.8166617 } 
+, {"measurement":"excitement","value": 0.7521429 } 
+, {"measurement":"frustration","value": 0.152779 } 
+, {"measurement":"stress","value": 0.1950274 } 
+, {"measurement":"relaxation","value": 0.53031045 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:48.535Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.9395063 } 
+, {"measurement":"focus","value": 0.71426535 } 
+, {"measurement":"excitement","value": 0.61841226 } 
+, {"measurement":"frustration","value": 0.27754205 } 
+, {"measurement":"stress","value": 0.059690893 } 
+, {"measurement":"relaxation","value": 0.4587577 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.582Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8537688 } 
+, {"measurement":"focus","value": 0.8644989 } 
+, {"measurement":"excitement","value": 0.63982296 } 
+, {"measurement":"frustration","value": 0.18811607 } 
+, {"measurement":"stress","value": 0.105102114 } 
+, {"measurement":"relaxation","value": 0.50499195 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.623Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9877368 } 
+, {"measurement":"focus","value": 0.80679727 } 
+, {"measurement":"excitement","value": 0.62077475 } 
+, {"measurement":"frustration","value": 0.24362913 } 
+, {"measurement":"stress","value": 0.007939207 } 
+, {"measurement":"relaxation","value": 0.4036357 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.665Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8048475 } 
+, {"measurement":"focus","value": 0.8894932 } 
+, {"measurement":"excitement","value": 0.68832314 } 
+, {"measurement":"frustration","value": 0.28210634 } 
+, {"measurement":"stress","value": 0.18635705 } 
+, {"measurement":"relaxation","value": 0.45173687 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.708Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9270612 } 
+, {"measurement":"focus","value": 0.7112125 } 
+, {"measurement":"excitement","value": 0.6808979 } 
+, {"measurement":"frustration","value": 0.14004755 } 
+, {"measurement":"stress","value": 0.0056542517 } 
+, {"measurement":"relaxation","value": 0.5055498 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.751Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.88375735 } 
+, {"measurement":"focus","value": 0.843021 } 
+, {"measurement":"excitement","value": 0.78691447 } 
+, {"measurement":"frustration","value": 0.19689643 } 
+, {"measurement":"stress","value": 0.18317033 } 
+, {"measurement":"relaxation","value": 0.56516474 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:49.794Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8375191 } 
+, {"measurement":"focus","value": 0.7064408 } 
+, {"measurement":"excitement","value": 0.7501973 } 
+, {"measurement":"frustration","value": 0.16976178 } 
+, {"measurement":"stress","value": 0.08482708 } 
+, {"measurement":"relaxation","value": 0.44200492 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:50.839Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9422041 } 
+, {"measurement":"focus","value": 0.86967963 } 
+, {"measurement":"excitement","value": 0.76242524 } 
+, {"measurement":"frustration","value": 0.23303777 } 
+, {"measurement":"stress","value": 0.19656152 } 
+, {"measurement":"relaxation","value": 0.53342235 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:50.880Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.8139529 } 
+, {"measurement":"focus","value": 0.7287406 } 
+, {"measurement":"excitement","value": 0.64722043 } 
+, {"measurement":"frustration","value": 0.12290266 } 
+, {"measurement":"stress","value": 0.18313017 } 
+, {"measurement":"relaxation","value": 0.42858902 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:50.923Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8805996 } 
+, {"measurement":"focus","value": 0.7504612 } 
+, {"measurement":"excitement","value": 0.7990917 } 
+, {"measurement":"frustration","value": 0.121152334 } 
+, {"measurement":"stress","value": 0.054957714 } 
+, {"measurement":"relaxation","value": 0.50815046 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:50.963Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9741912 } 
+, {"measurement":"focus","value": 0.78069115 } 
+, {"measurement":"excitement","value": 0.61942023 } 
+, {"measurement":"frustration","value": 0.19576818 } 
+, {"measurement":"stress","value": 0.05621996 } 
+, {"measurement":"relaxation","value": 0.45211402 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:51.007Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.845133 } 
+, {"measurement":"focus","value": 0.77346295 } 
+, {"measurement":"excitement","value": 0.7048087 } 
+, {"measurement":"frustration","value": 0.187799 } 
+, {"measurement":"stress","value": 0.08121778 } 
+, {"measurement":"relaxation","value": 0.49353337 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:51.050Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.94286156 } 
+, {"measurement":"focus","value": 0.7387071 } 
+, {"measurement":"excitement","value": 0.75209904 } 
+, {"measurement":"frustration","value": 0.17831743 } 
+, {"measurement":"stress","value": 0.13978045 } 
+, {"measurement":"relaxation","value": 0.5915495 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.095Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8854684 } 
+, {"measurement":"focus","value": 0.8321922 } 
+, {"measurement":"excitement","value": 0.693355 } 
+, {"measurement":"frustration","value": 0.26647544 } 
+, {"measurement":"stress","value": 0.17004335 } 
+, {"measurement":"relaxation","value": 0.5755068 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.136Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.8155619 } 
+, {"measurement":"focus","value": 0.7207395 } 
+, {"measurement":"excitement","value": 0.7282046 } 
+, {"measurement":"frustration","value": 0.29622915 } 
+, {"measurement":"stress","value": 0.15852837 } 
+, {"measurement":"relaxation","value": 0.41185758 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.179Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8371267 } 
+, {"measurement":"focus","value": 0.77273893 } 
+, {"measurement":"excitement","value": 0.7322184 } 
+, {"measurement":"frustration","value": 0.286696 } 
+, {"measurement":"stress","value": 0.15276498 } 
+, {"measurement":"relaxation","value": 0.40774542 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.222Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9387933 } 
+, {"measurement":"focus","value": 0.8139001 } 
+, {"measurement":"excitement","value": 0.7797793 } 
+, {"measurement":"frustration","value": 0.29296568 } 
+, {"measurement":"stress","value": 0.01254592 } 
+, {"measurement":"relaxation","value": 0.46541804 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.265Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8337746 } 
+, {"measurement":"focus","value": 0.7370435 } 
+, {"measurement":"excitement","value": 0.6201321 } 
+, {"measurement":"frustration","value": 0.18476436 } 
+, {"measurement":"stress","value": 0.082507685 } 
+, {"measurement":"relaxation","value": 0.5211438 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:52.307Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.85151494 } 
+, {"measurement":"focus","value": 0.7729125 } 
+, {"measurement":"excitement","value": 0.748958 } 
+, {"measurement":"frustration","value": 0.12527749 } 
+, {"measurement":"stress","value": 0.08507494 } 
+, {"measurement":"relaxation","value": 0.46511808 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.349Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9641479 } 
+, {"measurement":"focus","value": 0.7397807 } 
+, {"measurement":"excitement","value": 0.7678817 } 
+, {"measurement":"frustration","value": 0.23494196 } 
+, {"measurement":"stress","value": 0.12532005 } 
+, {"measurement":"relaxation","value": 0.5999349 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.388Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.99714184 } 
+, {"measurement":"focus","value": 0.7795775 } 
+, {"measurement":"excitement","value": 0.6595683 } 
+, {"measurement":"frustration","value": 0.109255135 } 
+, {"measurement":"stress","value": 0.10894471 } 
+, {"measurement":"relaxation","value": 0.5752572 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.426Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8404571 } 
+, {"measurement":"focus","value": 0.89064115 } 
+, {"measurement":"excitement","value": 0.7050019 } 
+, {"measurement":"frustration","value": 0.1661613 } 
+, {"measurement":"stress","value": 0.0716569 } 
+, {"measurement":"relaxation","value": 0.5176026 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.463Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.83643746 } 
+, {"measurement":"focus","value": 0.70889914 } 
+, {"measurement":"excitement","value": 0.70881176 } 
+, {"measurement":"frustration","value": 0.274084 } 
+, {"measurement":"stress","value": 0.016980577 } 
+, {"measurement":"relaxation","value": 0.559926 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.500Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.98756754 } 
+, {"measurement":"focus","value": 0.86994845 } 
+, {"measurement":"excitement","value": 0.63518476 } 
+, {"measurement":"frustration","value": 0.20852911 } 
+, {"measurement":"stress","value": 0.053201582 } 
+, {"measurement":"relaxation","value": 0.4593983 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:53.540Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.80236346 } 
+, {"measurement":"focus","value": 0.7199069 } 
+, {"measurement":"excitement","value": 0.6675369 } 
+, {"measurement":"frustration","value": 0.29093018 } 
+, {"measurement":"stress","value": 0.1844493 } 
+, {"measurement":"relaxation","value": 0.4797588 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.581Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8476619 } 
+, {"measurement":"focus","value": 0.7155259 } 
+, {"measurement":"excitement","value": 0.6529403 } 
+, {"measurement":"frustration","value": 0.27805287 } 
+, {"measurement":"stress","value": 0.070111535 } 
+, {"measurement":"relaxation","value": 0.56361216 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.625Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.92811567 } 
+, {"measurement":"focus","value": 0.7226447 } 
+, {"measurement":"excitement","value": 0.72840494 } 
+, {"measurement":"frustration","value": 0.27009878 } 
+, {"measurement":"stress","value": 0.04335196 } 
+, {"measurement":"relaxation","value": 0.58353555 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.667Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.97239804 } 
+, {"measurement":"focus","value": 0.7037192 } 
+, {"measurement":"excitement","value": 0.6631178 } 
+, {"measurement":"frustration","value": 0.29623032 } 
+, {"measurement":"stress","value": 0.03021059 } 
+, {"measurement":"relaxation","value": 0.49224627 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.706Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.9749694 } 
+, {"measurement":"focus","value": 0.80980635 } 
+, {"measurement":"excitement","value": 0.65472144 } 
+, {"measurement":"frustration","value": 0.115628496 } 
+, {"measurement":"stress","value": 0.080366805 } 
+, {"measurement":"relaxation","value": 0.5550128 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.746Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.9532311 } 
+, {"measurement":"focus","value": 0.8475077 } 
+, {"measurement":"excitement","value": 0.72896916 } 
+, {"measurement":"frustration","value": 0.23869795 } 
+, {"measurement":"stress","value": 0.13953684 } 
+, {"measurement":"relaxation","value": 0.40057412 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:54.787Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.90798193 } 
+, {"measurement":"focus","value": 0.79694533 } 
+, {"measurement":"excitement","value": 0.77435356 } 
+, {"measurement":"frustration","value": 0.23488697 } 
+, {"measurement":"stress","value": 0.16229506 } 
+, {"measurement":"relaxation","value": 0.4985287 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:55.831Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.99232894 } 
+, {"measurement":"focus","value": 0.89179194 } 
+, {"measurement":"excitement","value": 0.6546467 } 
+, {"measurement":"frustration","value": 0.24032533 } 
+, {"measurement":"stress","value": 0.019401038 } 
+, {"measurement":"relaxation","value": 0.49000207 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:55.874Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.9245737 } 
+, {"measurement":"focus","value": 0.87239635 } 
+, {"measurement":"excitement","value": 0.6019316 } 
+, {"measurement":"frustration","value": 0.20817158 } 
+, {"measurement":"stress","value": 0.07020642 } 
+, {"measurement":"relaxation","value": 0.45865098 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:55.915Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.88446385 } 
+, {"measurement":"focus","value": 0.81741685 } 
+, {"measurement":"excitement","value": 0.77974933 } 
+, {"measurement":"frustration","value": 0.24758512 } 
+, {"measurement":"stress","value": 0.07915093 } 
+, {"measurement":"relaxation","value": 0.54664195 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:55.961Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8215119 } 
+, {"measurement":"focus","value": 0.8296214 } 
+, {"measurement":"excitement","value": 0.7804465 } 
+, {"measurement":"frustration","value": 0.2016907 } 
+, {"measurement":"stress","value": 0.10764729 } 
+, {"measurement":"relaxation","value": 0.4969448 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:56.004Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.87783515 } 
+, {"measurement":"focus","value": 0.8135113 } 
+, {"measurement":"excitement","value": 0.7834791 } 
+, {"measurement":"frustration","value": 0.16314796 } 
+, {"measurement":"stress","value": 0.13222931 } 
+, {"measurement":"relaxation","value": 0.51806843 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:56.044Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8405177 } 
+, {"measurement":"focus","value": 0.8029907 } 
+, {"measurement":"excitement","value": 0.770874 } 
+, {"measurement":"frustration","value": 0.28646842 } 
+, {"measurement":"stress","value": 0.0021714212 } 
+, {"measurement":"relaxation","value": 0.46800086 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.088Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.89709234 } 
+, {"measurement":"focus","value": 0.88348746 } 
+, {"measurement":"excitement","value": 0.7892986 } 
+, {"measurement":"frustration","value": 0.15052426 } 
+, {"measurement":"stress","value": 0.115740016 } 
+, {"measurement":"relaxation","value": 0.48360264 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.132Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.97089666 } 
+, {"measurement":"focus","value": 0.7635195 } 
+, {"measurement":"excitement","value": 0.7751292 } 
+, {"measurement":"frustration","value": 0.14186907 } 
+, {"measurement":"stress","value": 0.11638166 } 
+, {"measurement":"relaxation","value": 0.54701626 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.171Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.9945468 } 
+, {"measurement":"focus","value": 0.80925304 } 
+, {"measurement":"excitement","value": 0.78583 } 
+, {"measurement":"frustration","value": 0.27782205 } 
+, {"measurement":"stress","value": 0.1854021 } 
+, {"measurement":"relaxation","value": 0.5616442 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.215Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8391832 } 
+, {"measurement":"focus","value": 0.71703845 } 
+, {"measurement":"excitement","value": 0.658958 } 
+, {"measurement":"frustration","value": 0.23041931 } 
+, {"measurement":"stress","value": 0.06598308 } 
+, {"measurement":"relaxation","value": 0.48364505 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.254Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.89684486 } 
+, {"measurement":"focus","value": 0.7919922 } 
+, {"measurement":"excitement","value": 0.7513108 } 
+, {"measurement":"frustration","value": 0.27056256 } 
+, {"measurement":"stress","value": 0.034633458 } 
+, {"measurement":"relaxation","value": 0.5284858 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:57.296Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.9523023 } 
+, {"measurement":"focus","value": 0.7620824 } 
+, {"measurement":"excitement","value": 0.7561197 } 
+, {"measurement":"frustration","value": 0.26273602 } 
+, {"measurement":"stress","value": 0.07611608 } 
+, {"measurement":"relaxation","value": 0.54410833 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.341Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9775028 } 
+, {"measurement":"focus","value": 0.7615478 } 
+, {"measurement":"excitement","value": 0.69052577 } 
+, {"measurement":"frustration","value": 0.22526866 } 
+, {"measurement":"stress","value": 0.005127323 } 
+, {"measurement":"relaxation","value": 0.5419468 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.380Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.99896204 } 
+, {"measurement":"focus","value": 0.8387124 } 
+, {"measurement":"excitement","value": 0.7155108 } 
+, {"measurement":"frustration","value": 0.15974893 } 
+, {"measurement":"stress","value": 0.16223012 } 
+, {"measurement":"relaxation","value": 0.54915327 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.450Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.8620005 } 
+, {"measurement":"focus","value": 0.76130295 } 
+, {"measurement":"excitement","value": 0.60902894 } 
+, {"measurement":"frustration","value": 0.16729885 } 
+, {"measurement":"stress","value": 0.15888284 } 
+, {"measurement":"relaxation","value": 0.5106246 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.491Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.91124225 } 
+, {"measurement":"focus","value": 0.7035976 } 
+, {"measurement":"excitement","value": 0.7561301 } 
+, {"measurement":"frustration","value": 0.27295375 } 
+, {"measurement":"stress","value": 0.18646206 } 
+, {"measurement":"relaxation","value": 0.596928 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.531Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.80458885 } 
+, {"measurement":"focus","value": 0.714628 } 
+, {"measurement":"excitement","value": 0.6152483 } 
+, {"measurement":"frustration","value": 0.24283054 } 
+, {"measurement":"stress","value": 0.073533945 } 
+, {"measurement":"relaxation","value": 0.43828237 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:58.575Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.8948952 } 
+, {"measurement":"focus","value": 0.8311637 } 
+, {"measurement":"excitement","value": 0.72542274 } 
+, {"measurement":"frustration","value": 0.27588195 } 
+, {"measurement":"stress","value": 0.14166534 } 
+, {"measurement":"relaxation","value": 0.51174235 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.615Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.85902625 } 
+, {"measurement":"focus","value": 0.79550713 } 
+, {"measurement":"excitement","value": 0.72750175 } 
+, {"measurement":"frustration","value": 0.13529095 } 
+, {"measurement":"stress","value": 0.076383285 } 
+, {"measurement":"relaxation","value": 0.41502985 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.655Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.8214678 } 
+, {"measurement":"focus","value": 0.8871743 } 
+, {"measurement":"excitement","value": 0.7462218 } 
+, {"measurement":"frustration","value": 0.12716801 } 
+, {"measurement":"stress","value": 0.1851651 } 
+, {"measurement":"relaxation","value": 0.47279385 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.697Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.95710874 } 
+, {"measurement":"focus","value": 0.7828097 } 
+, {"measurement":"excitement","value": 0.6516638 } 
+, {"measurement":"frustration","value": 0.1046248 } 
+, {"measurement":"stress","value": 0.16314727 } 
+, {"measurement":"relaxation","value": 0.47266465 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.736Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8869188 } 
+, {"measurement":"focus","value": 0.8234807 } 
+, {"measurement":"excitement","value": 0.68214154 } 
+, {"measurement":"frustration","value": 0.2820269 } 
+, {"measurement":"stress","value": 0.08722317 } 
+, {"measurement":"relaxation","value": 0.52299637 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.776Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8584826 } 
+, {"measurement":"focus","value": 0.74134016 } 
+, {"measurement":"excitement","value": 0.7241056 } 
+, {"measurement":"frustration","value": 0.15090366 } 
+, {"measurement":"stress","value": 0.083320856 } 
+, {"measurement":"relaxation","value": 0.56104594 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:01:59.815Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.97763467 } 
+, {"measurement":"focus","value": 0.806376 } 
+, {"measurement":"excitement","value": 0.7867269 } 
+, {"measurement":"frustration","value": 0.22413443 } 
+, {"measurement":"stress","value": 0.10914774 } 
+, {"measurement":"relaxation","value": 0.5758914 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:00.857Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.9140948 } 
+, {"measurement":"focus","value": 0.76977134 } 
+, {"measurement":"excitement","value": 0.74983954 } 
+, {"measurement":"frustration","value": 0.26269987 } 
+, {"measurement":"stress","value": 0.051515616 } 
+, {"measurement":"relaxation","value": 0.41257772 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:00.896Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.94707066 } 
+, {"measurement":"focus","value": 0.8893212 } 
+, {"measurement":"excitement","value": 0.6291861 } 
+, {"measurement":"frustration","value": 0.16441166 } 
+, {"measurement":"stress","value": 0.0037455321 } 
+, {"measurement":"relaxation","value": 0.41931552 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:00.936Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.96275556 } 
+, {"measurement":"focus","value": 0.88658303 } 
+, {"measurement":"excitement","value": 0.65930855 } 
+, {"measurement":"frustration","value": 0.15641443 } 
+, {"measurement":"stress","value": 0.15470873 } 
+, {"measurement":"relaxation","value": 0.44807363 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:00.982Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.8961764 } 
+, {"measurement":"focus","value": 0.76784277 } 
+, {"measurement":"excitement","value": 0.6184263 } 
+, {"measurement":"frustration","value": 0.2387053 } 
+, {"measurement":"stress","value": 0.103554405 } 
+, {"measurement":"relaxation","value": 0.41076213 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:01.021Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8123604 } 
+, {"measurement":"focus","value": 0.8063006 } 
+, {"measurement":"excitement","value": 0.7473843 } 
+, {"measurement":"frustration","value": 0.1604724 } 
+, {"measurement":"stress","value": 0.043592405 } 
+, {"measurement":"relaxation","value": 0.5278515 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:01.061Z,},{S: user6,},{S: [{"measurement":"engagement","value": 0.93348086 } 
+, {"measurement":"focus","value": 0.88125116 } 
+, {"measurement":"excitement","value": 0.60614645 } 
+, {"measurement":"frustration","value": 0.26434278 } 
+, {"measurement":"stress","value": 0.014726818 } 
+, {"measurement":"relaxation","value": 0.5167969 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:02.101Z,},{S: user1,},{S: [{"measurement":"engagement","value": 0.8765391 } 
+, {"measurement":"focus","value": 0.8942654 } 
+, {"measurement":"excitement","value": 0.63328713 } 
+, {"measurement":"frustration","value": 0.1632491 } 
+, {"measurement":"stress","value": 0.056939043 } 
+, {"measurement":"relaxation","value": 0.54036695 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:02.148Z,},{S: user2,},{S: [{"measurement":"engagement","value": 0.84557134 } 
+, {"measurement":"focus","value": 0.8429344 } 
+, {"measurement":"excitement","value": 0.6312241 } 
+, {"measurement":"frustration","value": 0.1173453 } 
+, {"measurement":"stress","value": 0.052209653 } 
+, {"measurement":"relaxation","value": 0.4636904 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:02.188Z,},{S: user3,},{S: [{"measurement":"engagement","value": 0.9475511 } 
+, {"measurement":"focus","value": 0.8048747 } 
+, {"measurement":"excitement","value": 0.7622365 } 
+, {"measurement":"frustration","value": 0.12763315 } 
+, {"measurement":"stress","value": 0.0956284 } 
+, {"measurement":"relaxation","value": 0.56117815 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:02.227Z,},{S: user4,},{S: [{"measurement":"engagement","value": 0.89047205 } 
+, {"measurement":"focus","value": 0.8046937 } 
+, {"measurement":"excitement","value": 0.7798589 } 
+, {"measurement":"frustration","value": 0.15287143 } 
+, {"measurement":"stress","value": 0.181464 } 
+, {"measurement":"relaxation","value": 0.41080025 } 
+],},
+{S: EEG sensor,},{S: 2018-02-20T22:02:02.266Z,},{S: user5,},{S: [{"measurement":"engagement","value": 0.8166904 } 
+, {"measurement":"focus","value": 0.82938594 } 
+, {"measurement":"excitement","value": 0.70213777 } 
+, {"measurement":"frustration","value": 0.13647385 } 
+, {"measurement":"stress","value": 0.09781

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/personal stuff 01-20-2016/CS/CS8990 thesis project/FGCS paper work/EEGLogger/community-sdk-master/lib/java/jna.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

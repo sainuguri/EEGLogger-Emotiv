@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 07 13:55:38 CST 2017
+amazon-kinesis-data-visualization-sample-1.1.2-assembly.zip>=
+amazon-kinesis-data-visualization-sample-1.1.2.jar>=
+amazon-kinesis-data-visualization-sample-1.1.2.pom>=
