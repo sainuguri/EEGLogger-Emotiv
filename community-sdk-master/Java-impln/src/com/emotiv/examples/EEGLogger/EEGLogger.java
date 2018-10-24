@@ -1,6 +1,6 @@
 /* 
 * Created by Sai Nuguri
-* Program reads EEG data from Emotiv and writes to AWS DynamoDB
+* Program reads EEG data from Emotiv EEG Headband and writes it to AWS DynamoDB
 *
 */
 
@@ -225,39 +225,15 @@ public class EEGLogger {
 	                IEegData.INSTANCE.IEE_DataUpdateHandle(userID.getValue(), hData);
 	                IEegData.INSTANCE.IEE_DataGetNumberOfSample(hData, nSamplesTaken);
 
-	                if (nSamplesTaken != null) {
-//
-//	                    if (nSamplesTaken.getValue() != 0) {
-//
-//	                        System.out.print("Updated: ");
-//	                        System.out.println(nSamplesTaken.getValue());
-//	                        double[] data = new double[nSamplesTaken.getValue()];
-//	                        for (int sampleIdx = 0; sampleIdx < nSamplesTaken.getValue(); ++sampleIdx) {
-//	                            for (int i = 0; i < 20; i++) {
-//	                                IEegData.INSTANCE.IEE_DataGet(hData, i, data, nSamplesTaken.getValue());
-//	                                fout.printf("%f",data[sampleIdx]);
-//	                                fout.printf(",");
-//	                            }
-//	                            fout.printf("\n");
-//	                        }
-//	                    }
-	                }     
-
+	               
 	                Engagement = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetEngagementBoredomScore(eEvent);
 	                Excitement = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetExcitementLongTermScore(eEvent);
 	                Relaxation = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetRelaxationScore(eEvent);
 	                Stress = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetStressScore(eEvent);         
 	                Focus = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetFocusScore(eEvent);
 	                Interest = PerformanceMetrics.INSTANCE.IS_PerformanceMetricGetInterestScore(eEvent);               
-
-//	                Engagement = (float) 0.7;
-//	                Excitement = (float) 0.654;
-//	                Relaxation = (float) 0.444;
-//	                Stress = (float)0.683;
-//	                Focus = (float)0.778;
-//	                Interest = (float)0.889;
-	                
-	                // generate random data and try to persist data into local file first
+               
+	                // read data and write to DynamoDB
 		            VrMeasurement measurementRecord =  new VrMeasurement();	            
 
 		            for (int i=1; i<numUsers+1; i++) {
@@ -309,6 +285,8 @@ public class EEGLogger {
 
     private static DdbRecordToWrite generateDBRecord(VrMeasurement measurementRecord, String user) {
     	
+	    // To simulate random data for the Emotions being written into DynamoDB
+	    
     	DdbRecordToWrite ddbRecordToWrite = new DdbRecordToWrite();
         ddbRecordToWrite.setResource(measurementRecord.getResource());
         //ddbRecordToWrite.setTimeStamp(measurementRecord.getTimeStamp());
